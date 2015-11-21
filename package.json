@@ -1,7 +1,7 @@
 {
   "name": "touch-icons",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create touch icon data for multiple icon sizes",
   "license": "MIT",
   "repository": "bendrucker/touch-icons",
