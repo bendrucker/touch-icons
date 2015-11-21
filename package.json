@@ -1,0 +1,29 @@
+{
+  "name": "touch-icons",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Create touch icon data for multiple icon sizes",
+  "license": "MIT",
+  "repository": "bendrucker/touch-icons",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "touch",
+    "icon",
+    "mobile",
+    "html"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^5.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
