@@ -1,4 +1,4 @@
-# touch-icons [![Build Status](https://travis-ci.org/bendrucker/touch-icons.svg?branch=master)](https://travis-ci.org/bendrucker/touch-icons)
+# touch-icons [![Build Status](https://travis-ci.org/bendrucker/touch-icons.svg?branch=master)](https://travis-ci.org/bendrucker/touch-icons) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/touch-icons.svg)](https://greenkeeper.io/)
 
 > Create touch icon data for multiple icon sizes
 
